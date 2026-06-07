@@ -203,7 +203,7 @@ translate([40,-17,43])
   translate([30,-22,12])
     rotate([90,0,0])
      linear_extrude(height=2)
-      text ("Chuck Derus",size=7);
+      text ("Test Name",size=7);
   }
 }
 // led panel
